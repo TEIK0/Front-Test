@@ -1,0 +1,20 @@
+.LittleDescriptionContainer {
+    width: 35vw;
+    margin-left: 80px;
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+
+.DescriptionTitle {
+    font-size: 6    0px;
+}
+
+.DescriptionP {
+    margin-top: 40px;
+}
+
+.DescriptionImg {
+    margin-left: 80px;
+    width: 500px;
+    height: 380px;
+}

@@ -1,0 +1,49 @@
+.LJContainer {
+    background-color: rgb(1%, 69%, 27%);
+    align-items: center;
+    width: 100.9%;
+}
+
+.live {
+    color: white;
+    font-size: 30px;
+}
+
+.LiveContainer {
+    background-color: rgb(233, 33, 0);
+    width: 15%;
+    display: inline-block;
+}
+
+.JoinContainer {
+    display: inline-block;
+    background-color: rgb(7, 145, 59);
+    width: 20%;
+}
+
+.LJLorem {
+    display: flex;
+    position:relative;
+    top: 5px;
+    left: 8%;
+    color: white;
+    font-size: 30px;
+}
+
+.Join {
+    position:relative;
+    top: 3px;
+    color: white;
+    font-size: 30px;
+}
+
+.LoremContainer {
+    display: inline-block;
+    width: 35%;
+}
+
+.PlayIcon {
+    position:relative;
+    bottom: 4px;
+    left: 20px;
+}

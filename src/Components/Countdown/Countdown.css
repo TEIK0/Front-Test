@@ -1,0 +1,58 @@
+.CountdownContainer {
+    background-color: #025923;
+    display: flex;
+    width: 100.9%;
+    height: 200px;
+}
+
+.LoremCountdown {
+    color: white;
+    width: 500px;
+    position: relative;
+    top: 50px;
+    left: 40px;
+}
+
+.DaysContainer {
+    height: fit-content;
+    width:fit-content;
+    position: relative;
+    top: 40px;
+    right: 40px;
+}
+
+.DaysNumber {
+    color: white;
+    font-size: 60px;
+}
+
+.Days{
+    color: #028F37;
+    font-size: 30px;
+}
+
+.Divider {
+    border-left: 1px solid #028F37;;
+    width: 1px;
+    height: 150px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.HoursNumber {
+    color: white;
+    font-size: 60px;
+    padding-left: 10px;
+}
+
+.MinutesNumber {
+    color: white;
+    font-size: 60px;
+    padding-left: 20px;
+}
+
+.SecondsNumber {
+    color: white;
+    font-size: 60px;
+    padding-left: 20px;
+}

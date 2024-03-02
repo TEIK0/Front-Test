@@ -1,0 +1,59 @@
+
+.HeaderContainer {
+    display: flex;
+    height: 75vh;
+    width: 100%;
+}
+
+.Icon {
+    width: 150px;
+    height: 80px;
+    position:relative;
+    left: 80px;
+    top: 10px;
+}
+
+.LoremHeader {
+    color: #FFFFFF;
+    font-size: 15px;
+    font-weight: 800;
+}
+
+.LoremHeaderContainer {
+    position:relative;
+    left: 180px;
+    top: 30px;
+}
+
+.RowsLoremContainer {
+    position:absolute;
+    top: 150px;
+    right: 35px;
+}
+
+.LoremRow {
+    font-size: 70px;
+    font-weight: 700;
+    color: white;
+}
+
+.LoremRowE {
+    display:inline-block;
+    color:#170B01;
+    background-color: white;
+    width: 800px;
+}
+
+.WhatsNextButton {
+    background-color: rgb(1%, 69%, 27%);
+    height: 50px;
+    width: 200px;
+    padding-top: 8px;
+    text-align: center;
+    border-radius: 7px;
+    color: white;
+    font-size: 25px;
+    position:absolute;
+    top: 530px;
+    left: 440px;
+}

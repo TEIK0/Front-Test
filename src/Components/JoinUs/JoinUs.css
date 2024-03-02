@@ -1,0 +1,97 @@
+.JoinUsContainer {
+    width: 100%;
+    height: 800px;
+}
+
+.JoinUsTitle {
+    color: white;
+    float: right;
+    margin-right: 28%;
+    margin-top: 3%;
+    font-size: 60px;
+}
+
+.JoinUsSubTitle {
+    color: white;
+    float: right;
+    position: relative;
+    margin-right: 20%;
+    font-size: 20px;
+    left: 150px;
+    top: 20px;
+    margin-bottom: 30px;
+}
+
+.RowOfInputs {
+    float: right;
+    position: relative;
+    margin-right: 13%;
+    left: 100px;
+    margin-top: 20px;
+}
+
+.ColInput {
+    height: 50px;
+    width: 250px;
+    border-radius: 5px;
+    border: transparent;
+    display: block;
+    margin-left: 25px;
+}
+
+.departamentInput {
+    float: right;
+    position: relative;
+    left: 630px;
+    top: 90px;
+    height: 50px;
+    width: 42%;
+    border-radius: 5px;
+    border: transparent;
+}
+
+.MensajeInput {
+    float: right;
+    position: relative;
+    left: 630px;
+    top: 110px;
+    height: 200px;
+    width: 42%;
+    border-radius: 5px;
+    border: transparent;
+}
+
+.ImIn {
+    float: right;
+    position: relative;
+    right: 415px;
+    top: 130px;
+    width: 15%;
+    background-color: #03B044;
+    width: 15%;
+    height: 50px;
+    font-size: 20px;
+    padding-top: 12px;
+    color: white;
+    border-radius: 2px;
+}
+
+.AfterIn {
+    color: white;
+    float: right;
+    position: relative;
+    top: 200px;
+    width: 40%;
+    left: 80px;
+    text-align: center;
+}
+
+.CreatorFistButton {
+    width: 95%;
+    height: 12%;
+    padding-top: 5%;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 35px;
+}

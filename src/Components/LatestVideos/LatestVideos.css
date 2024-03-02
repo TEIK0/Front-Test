@@ -1,0 +1,57 @@
+.LatestVideosTitle {
+    color: black;
+    font-size: 80px;
+    padding-top: 50px;
+    font-weight:600;
+}
+
+.LatestVideosContainer {
+    background-color: #F5F6FA;
+    height: 800px;
+    width: 100%;
+}
+
+.VideosRow {
+    width: 100%;
+    padding-top: 50px;
+}
+
+.Video {
+    width: 100px;
+    height: 100px;
+    margin-left: 80px;
+}
+
+.VideoShow {
+    width: 250px;
+    height: 150px;
+}
+
+.VideoText {
+    font-size: 14px;
+}
+
+.VideoIcon {
+    font-size: 50px;
+    position: relative;
+    right: 150px;
+    color: white;
+}
+
+.BottonRow {
+    padding-top: 150px;
+}
+
+.ViewAll {
+    width: 15%;
+    height: 50px;
+    background-color: #03B044;
+    font-size: 20px;
+    position: relative;
+    top: 150px;
+    left: 43.5%;
+    text-align: center;
+    padding-top: 12px;
+    color: white;
+    border-radius: 2px;
+}

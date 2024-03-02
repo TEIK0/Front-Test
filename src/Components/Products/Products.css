@@ -1,0 +1,61 @@
+.ProductsContainer {
+    background-color: #014F39;
+    height: 1200px;
+    width: 100%;
+}
+
+.ProductsTitle {
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.ItemImage {
+    width: 350px;
+    height: 500px;
+    padding-left: 20px;
+    margin-left: 25px;
+}
+
+.ProductsRow {
+    margin-top: 100px;
+}
+
+.ItemsButtons {
+    margin-top: 80px;
+}
+
+.FullCircle {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 100%;
+    border: solid white 4px;
+    margin-left: 45%;
+}
+
+.EmptyCircle {
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    border-radius: 100%;
+    border: solid white 4px;
+    margin-left: 2%;
+}
+
+.ProductsButton {
+    width: 22%;
+    height: 70px;
+    background-color: white;
+    font-size: 25px;
+    font-weight: 700;
+    position: relative;
+    top: 50px;
+    left: 41%;
+    text-align: center;
+    padding-top: 19px;
+    color: black;
+    border-radius: 2px;
+}

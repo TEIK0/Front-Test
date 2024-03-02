@@ -1,0 +1,41 @@
+.CreatorContainer{
+    width: 100vw;
+    height: 800px;
+    background-color: #03B044;
+}
+
+.CreatorTitle {
+    color: white;
+    font-size: 85px;
+}
+
+.CreatorDescriptionContainer{
+    width: 40vw;
+    padding-top: 30px;
+    padding-left: 100px;
+}
+
+.CreatorImage {
+    padding-top: 177px;
+}
+
+.CreatorFistButton {
+    width: 95%;
+    height: 12%;
+    padding-top: 5%;
+    background-color: white;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 35px;
+}
+
+.CreatorSecondButton {
+    width: 95%;
+    height: 12%;
+    padding-top: 5%;
+    color: white;
+    border: solid 2px white;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 30px;
+}
