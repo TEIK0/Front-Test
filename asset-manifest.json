@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Front-Test/static/css/main.bd32a84a.css",
+    "main.js": "/Front-Test/static/js/main.c23373f6.js",
+    "static/media/JoinUs.png": "/Front-Test/static/media/JoinUs.6b7f4b2943182531a4d3.png",
+    "static/media/Prb_Header.png": "/Front-Test/static/media/Prb_Header.718cb12a1c1d333efaf8.png",
+    "static/media/Pic6.png": "/Front-Test/static/media/Pic6.25484d96483dceaf2619.png",
+    "static/media/Pic10.png": "/Front-Test/static/media/Pic10.13b6dd6aa4f962051dac.png",
+    "static/media/Pic7.png": "/Front-Test/static/media/Pic7.1aa45fdd15b5bd4753fc.png",
+    "static/media/Pic5.png": "/Front-Test/static/media/Pic5.ba6a1d81bc3d0fd34f7c.png",
+    "static/media/Pic8.png": "/Front-Test/static/media/Pic8.4efbfd1cb9e647bac569.png",
+    "static/media/Pic9.png": "/Front-Test/static/media/Pic9.b16641b7524d74c4bdb8.png",
+    "static/media/Pic3.png": "/Front-Test/static/media/Pic3.8f2e02db85f9fd097fd5.png",
+    "static/media/Pic1.png": "/Front-Test/static/media/Pic1.93f50eac9d6964aa8233.png",
+    "static/media/Pic2.png": "/Front-Test/static/media/Pic2.d96cdad9c7434e8f9a3e.png",
+    "static/media/Pic4.png": "/Front-Test/static/media/Pic4.790806a46a2251c24dbe.png",
+    "static/media/icongrab.png": "/Front-Test/static/media/icongrab.3579c7f639ace07c4099.png",
+    "index.html": "/Front-Test/index.html",
+    "main.bd32a84a.css.map": "/Front-Test/static/css/main.bd32a84a.css.map",
+    "main.c23373f6.js.map": "/Front-Test/static/js/main.c23373f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd32a84a.css",
+    "static/js/main.c23373f6.js"
+  ]
+}
